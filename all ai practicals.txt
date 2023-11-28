@@ -131,7 +131,8 @@ best_first_search([(Cost, Node) | Rest], Goal, Visited) :-
 
 
 
-Pract5:
+Pract5: 
+( https://studyglance.in/labprograms/aidisplay.php?url1=ai/week5.pl&url2=&url3=&url4=&title=Write%20a%20program%20in%20prolog%20to%20solve%208%20Puzzle%20problems&opurl1=ai/outputs/w5.txt&opurl2=&opurl3=&opurl4=) 
 % Simple Prolog Planner for the 8 Puzzle Problem
 
 /* This predicate initialises the problem states. The first argument  of solve is the initial state, the 2nd the goal state, and the third the plan that will be produced.*/
